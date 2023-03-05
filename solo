@@ -1,0 +1,20 @@
+[33mcommit 506987b59d527fb50385200e2c42e87a41b52731[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 9588f5d bacb2c2
+Author: brunoespinosadiaz <126527721+brunoespinosadiaz@users.noreply.github.com>
+Date:   Fri Mar 3 23:29:20 2023 -0600
+
+    Merge pull request #2 from brunoespinosadiaz/test-branch
+    
+    PR test-branch/master#3
+
+[33mcommit bacb2c224c10f037b6f2bf87c6ad3a6a20bca77f[m[33m ([m[1;31morigin/test-branch[m[33m)[m
+Author: brunoespinosadiaz <bruno.espinosa.diaz@gmail.com>
+Date:   Fri Mar 3 23:20:15 2023 -0600
+
+    test commit
+
+[33mcommit 9588f5da58c0d48f8bd2f1d50bdf7c26cd62e264[m
+Author: brunoespinosadiaz <bruno.espinosa.diaz@gmail.com>
+Date:   Fri Mar 3 22:40:05 2023 -0600
+
+    Initial commit
